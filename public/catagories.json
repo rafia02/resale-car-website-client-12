@@ -1,0 +1,100 @@
+[
+    {
+      "catagori": "Toyota",
+      "img": "https://stimg.cardekho.com/pwa/img/brandLogo_168x84/toyota.jpg"
+    },
+    {
+      "catagori": "Honda",
+      "img": "https://stimg.cardekho.com/pwa/img/brandLogo_168x84/honda.jpg"
+    },
+    {
+      "catagori": "Mclaren",
+      "img": "https://stimg.cardekho.com/pwa/img/brandLogo_168x84/mclaren.jpg"
+    }
+  ]
+
+
+
+
+
+
+
+
+
+
+
+
+  [
+    {
+      "catagori": "Toyota",
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Hyryder/8979/1656917429866/front-left-side-47.jpg?tr=w-456",
+      "title": "Toyota Urban Cruiser Hyryder",
+      "name": "Robart Brush",
+      "location": "Alabama",
+      "orginal_price": "50000",
+      "resale_price": "20000",
+      "year": "2",
+      "time": "7",
+      "status": "unverified"
+    },
+    {
+      "catagori": "Honda",
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Honda/Amaze/8541/1629275024620/front-left-side-47.jpg?tr=w-456",
+      "title": "Honda Amaze",
+      "name": "Karina Khan",
+      "location": "California",
+      "orginal_price": "60000",
+      "resale_price": "30000",
+      "year": "10",
+      "time": "12",
+      "status": "unverified"
+    },
+    {
+      "catagori": "Toyota",
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Innova-Hycross/9402/1669031199322/front-left-side-47.jpg?tr=w-456",
+      "title": "Toyota Innova Hycross",
+      "name": "Robart Brush",
+      "location": "New Yourk",
+      "orginal_price": "80000",
+      "resale_price": "70000",
+      "year": "3",
+      "time": "8",
+      "status": "verfied"
+    },
+    {
+      "catagori": "Honda",
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Honda/City/6909/1645419537509/front-left-side-47.jpg?tr=w-456",
+      "title": "Honda City G40",
+      "name": "Maree Alxe",
+      "location": "Alaska",
+      "orginal_price": "100000",
+      "resale_price": "60000",
+      "year": "7",
+      "time": "5",
+      "status": "verfied"
+    },
+    {
+      "catagori": "Mclaren",
+      "img": "https://assets.gqindia.com/photos/630489290f61f07125bf9694/master/pass/720S.jpg",
+      "title": "McLaren GT",
+      "name": "Patricia Hock",
+      "location": "Texas",
+      "orginal_price": "90000",
+      "resale_price": "70000",
+      "year": "5",
+      "time": "3",
+      "status": "unverified"
+    },
+    {
+      "catagori": "Mclaren",
+      "img": "https://images.drive.com.au/driveau/image/upload/c_fill,h_1296,w_2304/q_auto:eco/f_auto/v1/cms/uploads/HJ3aPYQNRqSg2C7x0v55",
+      "title": "McLaren 720S GT3X ",
+      "name": "Alia Tasnim",
+      "location": "Hawaii",
+      "orginal_price": "150000",
+      "resale_price": "120000",
+      "year": "5",
+      "time": "11",
+      "status": "verfied"
+    }
+  ]
