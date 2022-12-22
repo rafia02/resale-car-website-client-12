@@ -9,7 +9,7 @@ const CheckOut = ({booking}) => {
     const [clientSecret, setClientSecret] = useState("");
 
     useEffect(()=>{
-        fetch(`http://localhost:5000/create-payment-intent`,{
+        fetch(`https://resale-car-server-12.vercel.app/create-payment-intent`,{
             method: 'POST',
             headers: {
                 'Content-type': 'application/json'
@@ -85,7 +85,7 @@ const CheckOut = ({booking}) => {
               email
             }
             
-            fetch('http://localhost:5000/payment',{
+            fetch('https://resale-car-server-12.vercel.app/payment',{
               method: 'POST',
               headers: {
                 'Content-type': 'application/json'

@@ -34,7 +34,7 @@ export  const router = createBrowserRouter([
         {path: '/dashbord/addproduct', element: <AddProduct></AddProduct>},
         {path: '/dashbord/myproduct', element: <MyProduct></MyProduct>},
         {path: '/dashbord/mybuyer', element: <Mybuyer></Mybuyer>},
-        {path: '/dashbord/payment/:id', loader: ({params})=> fetch(`http://localhost:5000/bookings/${params.id}`), element: <Payment></Payment>}
+        {path: '/dashbord/payment/:id', loader: ({params})=> fetch(`https://resale-car-server-12.vercel.app/bookings/${params.id}`), element: <Payment></Payment>}
     ]},
    
 ])

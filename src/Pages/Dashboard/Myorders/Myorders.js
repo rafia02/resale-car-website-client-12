@@ -27,8 +27,8 @@ const Myorders = () => {
 
 
   return (
-    <div>
-      <h1>my orsde</h1>
+    <div className=''>
+
 
       <div className="overflow-x-auto">
         <table className="table w-1/2 mx-auto md:w-full">
@@ -51,7 +51,7 @@ const Myorders = () => {
                 <th>{i + 1}</th>
                 <td>
                   <div className="w-24 rounded-full">
-                    <img src={book.img} />
+                    <img src={book.img} alt="" />
                   </div>
                 </td>
                 <td>{book.title}</td>
